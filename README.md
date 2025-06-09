@@ -8,4 +8,4 @@ Read my github website.
 
 ## How to use it
 
-Simply run the file on the target device and it will handle the rest for you. However, if you want the CMD shell you will have to put the binary data of the shell.c program into the main.rs's "custom_service_data" variable.
+Simply run the file on the target device and it will handle the rest for you. However, if you want something other than the CMD shell you will have to put the binary data of the shell.c program into the main.rs's "custom_service_data" variable.
